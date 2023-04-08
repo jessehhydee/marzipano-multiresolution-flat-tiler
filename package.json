@@ -1,0 +1,22 @@
+{
+  "name": "marzipano-multiresolution-flat-tiler",
+  "version": "1.0.0",
+  "description": "node.js script that takes any image and produces tiles that suit Googles Marzipano FlatView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessehhydee/marzipano-multiresolution-flat-tiler.git"
+  },
+  "author": "Jesse Hyde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessehhydee/marzipano-multiresolution-flat-tiler/issues"
+  },
+  "homepage": "https://github.com/jessehhydee/marzipano-multiresolution-flat-tiler#readme",
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
